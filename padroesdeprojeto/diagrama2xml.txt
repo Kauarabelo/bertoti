@@ -1,0 +1,29 @@
+@startuml
+
+title Strategy Pattern
+
+class Animal {
+
+  + setLocomover(Locomocao)
+  + void locomover()
+}
+
+interface Locomocao {
+  + mover()
+}
+class Voo {
+  + mover()
+}
+class Corrida {
+  + mover()
+}
+class Gato {
+
+}
+
+
+Locomocao <|-down- Voo
+Locomocao <|-down- Corrida
+Gato <|-down- Animal
+
+@enduml
