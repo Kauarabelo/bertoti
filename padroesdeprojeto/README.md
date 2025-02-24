@@ -16,8 +16,6 @@
      - ✅ **Testes automáticos** (pra não ter surpresas quando mexer em algo).  
      - ✅ **Padronização** (todo mundo escreve código do mesmo jeito, evita confusão).
 
---
-
 ## ⚖️ **3 Tradeoffs Clássicos (e Como a Google Lida)**
 
 ### 1. **🚀 Lançar Rápido vs. 🐛 Ter Menos Bugs**
