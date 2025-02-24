@@ -34,4 +34,7 @@
 ---
 ## **Aula 21/02 e 24/02** 
 
-- Link para repositorio do <a href="" style="text-decoration:none">**CÓDIGO**</a> e da <a href="" style="text-decoration:none">**UML**</a>
+- Link para repositorio do
+  <a href="https://github.com/Kauarabelo/bertoti/tree/main/engenhariadesoftware/24_2_2025/Mercado" style="text-decoration:none">**CÓDIGO**</a>
+  e da
+  <a href="https://github.com/Kauarabelo/bertoti/blob/main/engenhariadesoftware/24_2_2025/UML.png" style="text-decoration:none">**UML**</a>
