@@ -34,4 +34,4 @@
 ---
 ## **Aula 21/02 e 24/02** 
 
-- Link para repositorio do <a href="">**CÓDIGO**</a> e da <a href="">**UML**</a>
+- Link para repositorio do <a href="" style="text-decoration:none">**CÓDIGO**</a> e da <a href="" style="text-decoration:none">**UML**</a>
