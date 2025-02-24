@@ -16,7 +16,7 @@
      - ✅ **Testes automáticos** (pra não ter surpresas quando mexer em algo).  
      - ✅ **Padronização** (todo mundo escreve código do mesmo jeito, evita confusão).
 
----
+--
 
 ## ⚖️ **3 Tradeoffs Clássicos (e Como a Google Lida)**
 
@@ -32,6 +32,8 @@
    - **Problema:** Querem trocar o banco de dados por um mais moderno, mas o antigo ainda é usado por 100 times.  
    - **Solução Google:** Mudança **aos poucos** (ex: migração do Python 2 para 3), como reformar uma casa sem derrubar as paredes.
 
+     
+---
 ## **Aula 21/02 e 24/02** 
 
 - Link para repositorio do **CÓDIGO** e da **UML**
