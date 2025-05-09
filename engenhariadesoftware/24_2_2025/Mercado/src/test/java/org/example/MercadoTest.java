@@ -23,5 +23,10 @@ class MercadoTest {
         List<Compra> resultados = mercado.buscaCompra("Arroz");
         assertEquals(1, resultados.size());
         assertEquals("Tio João", resultados.get(0).getDescricao());
+
+        System.out.println(mercado.getCompra());
+
+        System.out.println(mercado.buscaCompra("Arroz"));
+
     }
 }
